@@ -1,0 +1,98 @@
+Spring (Boot)
+-----------
+
+- Unterschied Spring vs Spring Boot
+- Spring Rest
+- Gradle / Maven
+- Dependency Injection
+- Testing / Mocking
+- Deployment (Embedded Tomcat?)
+- Hibernate / JPA => Datenzugriff
+- Rest API Security?
+- Embedded Server
+- Logging und verschiedene levels
+- Clean Onion Architecture
+
+
+https://roadmap.sh/spring-boot => Evtl. noch mehr Details herauspicken
+
+
+Motivation: Wird im Job im neuen Projekt verwendet. Ziel dieses Jahres ist MVP herausbringen, viel Backendarbeit.
+Gibt viel "Magic" bei der man nicht auf den ersten Blick sieht was im Hintergrund erledigt wird.
+Z.b. @Transactional, ...
+
+
+Resultat: Handout für Klasse erstellen
+
+Falls Zeit besteht, zusätzlich noch Angular.
+
+
+
+
+
+
+
+
+Vorgaben für Selbstlerner
+
+Im Modul Web Engineering müssen zwei Noten produziert werden. Jeder Selbstlerner kann ein selbst ausgewähltes Thema im Bereich Webtechnologien erarbeiten. Im Anschluss wird von den Selbstlernern folgender Output gefordert. Aufgrund von diesem Output werden die beiden Noten in diesem Modul festgelegt.
+
+
+
+Note 1:
+
+Präsentation des erarbeiteten Wissens / Themas
+
+OnePager / High Level Zusammenfassung des Themas für die Klasse als PDF
+
+Bewertung umfasst:
+
+Qualität der Präsentation (Inhalt / Kernaussage / Angewandte Präsentationstechniken / Klare Sprache / Verständlichkeit / Angepasst ans Zielpublikum)
+
+Umfang der Präsentation dem Thema entsprechend
+
+Schwierigkeitsgrad / Komplexität des gewählten Themas
+
+OnePager (Übersichtlichkeit / Inhalt verständlich / Deckt die wichtigsten Punkte zusammenfassend ab)
+
+
+
+Note 2:
+
+Umsetzen eines Projektes / einer praktischen Arbeit zu dem gewählten Thema, um das erlernte theoretische Wissen praktisch zu vertiefen
+
+Der Programmcode wird am Schluss des Moduls abgegeben
+
+Wo sinnvoll soll ein lauffähiger Service aufgesetzt werden, so dass die anderen Studierenden diesen im Unterricht testen / nutzen können
+
+Bewertung umfasst:
+
+Umsetzung des Projektes (Qualität der Umsetzung / Lesbarkeit und Nachvorziehbarkeit des Codes / Verwenden von Github)
+
+Kommentieren des Codes für bessere Verständlichkeit und Lesbarkeit
+
+Komplexität des Projektes
+
+Funktioneller Umfang / Features
+
+Korrekte und umfassende Anwendung der Technologie mit ihren Möglichkeiten zwecks Knowhow Aufbau und Demonstration
+
+
+
+Wenn sinnvoll kann die Präsentation und die Abgabe der Umsetzung zu separaten Zeitpunkten erfolgen. Es können aber auch beide Teile gleichzeitig präsentiert, demonstriert und abgegeben werden.
+
+
+
+Termine:
+
+Für die Abgabe der Arbeit und die Präsentation / Demonstration kann einer der folgenden Termine gewählt werden:
+
+26.06.2023
+
+03.07.2023
+
+10.07.2023 (spätester Termin!)
+
+
+
+Spätester Präsentations- / Demonstrations- und Abgabetermin ist der 10.07.2023 um 11:30! Ist bis zu diesem Zeitpunkt keine Abgabe erfolgt resultiert dies in der Note «1» für beide Noten!
